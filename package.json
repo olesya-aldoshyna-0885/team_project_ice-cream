@@ -5,18 +5,18 @@
   "homepage": "https://olesya-aldoshyna-0885.github.io/team_project_ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream/",
+    "build": "parcel build src/*.html --public-url /team_project_ice-cream/",
     "watch": "parcel serve src/*.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olesya-aldoshyna-0885/team_project_ice-cream.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Olesya Aldoshyna <olesyaaldoshyna@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olesya-aldoshyna-0885/team_project_ice-cream/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
